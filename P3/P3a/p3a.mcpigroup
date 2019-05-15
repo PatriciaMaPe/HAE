@@ -1,0 +1,9 @@
+[PROJECTS]
+Count=5
+Project0=..\..\..\PracticasHAE\Practica6\P6d\p6d.mcppi
+Project1=..\..\P1\P1b\p1b.mcppi
+Project2=..\..\P1\P1c\p1c.mcppi
+Project3=..\..\P2\p2.mcppi
+Project4=p3a.mcppi
+[ActiveProject]
+Index=4
